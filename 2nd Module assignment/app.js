@@ -46,4 +46,5 @@ function displayWeather(data) {
 }
 
 // Call the function when page loads
-getWeather('washington');
+
+getWeather('mumbai');
